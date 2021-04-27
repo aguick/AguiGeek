@@ -1,5 +1,5 @@
 # AguiGeek
-Just a new repoository.
+Just a new repository.
 
 Hi, guys! 
 
